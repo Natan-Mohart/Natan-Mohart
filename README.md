@@ -1,89 +1,144 @@
 <br clear="both">
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 I'm Natan Mohart</h1>
 
 ###
 
-<h3 align="left">My name is Natan</h3>
+<h3 align="left">
+Tech Entrepreneur • AI Educator • Software Engineer
+</h3>
+
+###
+
+<p align="left">
+I create practical resources about AI, Business, Leadership and Personal Growth.<br><br>
+Here you'll find AI guides, PDF resources, Claude Skills, GPT prompts, workflows and educational content.
+</p>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/natan-linked/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="40" />
   </a>
-  <a href="natanmohart@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+
+  <a href="https://x.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="40" />
   </a>
+
+  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="40" />
+  </a>
+
+  <a href="https://YOURNAME.substack.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Substack&logo=substack&label=&color=FF6719&logoColor=white&style=for-the-badge" height="40" />
+  </a>
+
   <a href="https://medium.com/@natanmohart" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&style=for-the-badge" height="40" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+
+  <a href="https://youtube.com/@YOUR_CHANNEL" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="40" />
+  </a>
+
+  <a href="mailto:natanmohart@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="40" />
+  </a>
+
 </div>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
-<p align="left">✨</p>
+- 🚀 Building at the intersection of **AI & Technology**
+- 🤖 Sharing practical AI resources and workflows
+- 📊 Creating educational infographics
+- 🧠 Writing about AI, Business, Leadership & Personal Growth
+- 📚 Publishing free PDF guides, Claude Skills & Prompt Packs
+- 💡 Helping professionals leverage AI to work smarter
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">My AI Toolkit</h2>
 
 ###
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+
+  <img src="https://skillicons.dev/icons?i=github" height="42" />
+  <img width="12"/>
+
+  <img src="https://skillicons.dev/icons?i=vscode" height="42" />
+  <img width="12"/>
+
+  <img src="https://skillicons.dev/icons?i=figma" height="42" />
+  <img width="12"/>
+
+  <img src="https://skillicons.dev/icons?i=docker" height="42" />
+  <img width="12"/>
+
+  <img src="https://skillicons.dev/icons?i=git" height="42" />
+  <img width="12"/>
+
+  <img src="https://skillicons.dev/icons?i=javascript" height="42" />
+  <img width="12"/>
+
+  <img src="https://skillicons.dev/icons?i=typescript" height="42" />
+  <img width="12"/>
+
+  <img src="https://skillicons.dev/icons?i=react" height="42" />
+  <img width="12"/>
+
+  <img src="https://skillicons.dev/icons?i=nextjs" height="42" />
+
+</div>
+
+<br>
+
+<p align="left">
+
+🤖 ChatGPT • Claude • Gemini • Grok • Perplexity • Cursor • GitHub Copilot • NotebookLM • Midjourney • n8n • Make • Zapier
+
+</p>
+
+###
+
+<h2 align="left">Free Resources</h2>
+
+###
+
+📂 AI Infographics
+
+📄 PDF Guides
+
+🤖 Claude Skills
+
+💬 GPT Prompts
+
+⚡ AI Workflows
+
+🎯 Templates
+
+🧠 Prompt Library
+
+📚 Learning Resources
+
+###
+
+<div align="center">
+
+<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=3&username=natanmohart"/>
+
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=3&username=natanmohart" alt="Layout with last medium posts"  />
-</div>
 
-###
+> **Learn. Build. Share. Repeat.**
+
+</div>
