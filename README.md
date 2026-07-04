@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">My name is Natan and I'm a Frontend Software Engineer and Developer with 5+ years of experience</h3>
+<h3 align="left">My name is Natan</h3>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">✨ Hi there! I'm Natan, a Frontend Guru 🚀 passionate about creating beautiful and interactive user interfaces. My hands itch to turn design concepts into living, breathing web pages. I excel at making elements interact with each other to create a delightful user experience on websites and apps. I'm not afraid to dive into new technologies and experiment to achieve maximum efficiency and beauty. I'm eager to collaborate with a friendly team, where each day brings new challenges and opportunities for creativity. Let's create something amazing together! 💻🎨🌟</p>
+<p align="left">✨</p>
 
 ###
 
