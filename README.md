@@ -20,15 +20,15 @@ Building practical resources about AI, Business, Leadership and Personal Growth.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://x.com/YOUR_USERNAME" target="_blank">
+<a href="https://x.com/natan_mohart" target="_blank">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+<a href="https://instagram.com/natan_mohart/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://YOURNAME.substack.com" target="_blank">
+<a href="https://substack.com/@natanmohart" target="_blank">
 <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/>
 </a>
 
